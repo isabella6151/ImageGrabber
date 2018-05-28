@@ -1,0 +1,10 @@
+outDir:-C:\ComplianceImages
+camUsername:-
+camPassword:-
+ftpServer:-
+ftpUsername:-
+ftpPassword:-
+ftpDir:-#folderName#
+cam001:-#ip1#
+cam002:-#ip2#
+cam003:-#ip3#
